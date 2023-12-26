@@ -1,3 +1,3 @@
 # AI4Physics
-Solvign physical systems using IA.
+Solving physical systems using IA.
 Testing...
